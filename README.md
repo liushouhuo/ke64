@@ -23,3 +23,6 @@ ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7�
 8. MBR
 9. 应用层和驱动层(反汇编和汇编内存)
 10. 功能(...)
+
+#Screenshots
+![image](https://github.com/alinml/ke64/blob/main/screenshots/2.jpg)
