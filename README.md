@@ -14,7 +14,7 @@ ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7�
 我没有数字证书，所以使用HT SRL泄漏的数字证书来签署ke64的驱动程序。使用HT SRL数字证书防病毒软件都认为文件是恶意软件,请大家放心使用
 
 1. 进程,线程,模块,窗口,内存,定时器,热键,消息钩子,事件钩子,inline hook检测,(程序入口反汇编和汇编(双击汇编))
-2. 驱动模块,内核模式回调,过滤器,callbak,ObjectType,ObjectTypeHook,DPC,WFPCallout,minifilter,WorkerThread(堆栈回溯),GDI,IDT,IRP历程(...),(支持反汇编和汇编内存)
+2. 驱动模块,内核模式回调,过滤驱动,callbak,ObjectType,ObjectTypeHook,DPC,WFPCallout,minifilter,WorkerThread(堆栈回溯),GDI,IDT,IRP历程(...),(支持反汇编和汇编内存)
 3. IRP历程
 4. 端口查看
 5. 文件管理
