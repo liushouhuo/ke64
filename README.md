@@ -25,4 +25,5 @@ ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7�
 10. 功能(...)
 
 # Screenshots
+仅在该页面上放置了一张图片。
 ![image](https://github.com/alinml/ke64/blob/main/screenshots/2.jpg)
