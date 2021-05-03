@@ -1,5 +1,5 @@
 # ke64
-windows kernel arktools
+windows kernel tools
 
 免责声明:
 这只是一个免费的辅助软件, 如果您使用本软件, 给您直接或者间接造成损失、损害, 本人概不负责. 从您使用本软件的一刻起, 将视为您已经接受了本免责声明.
